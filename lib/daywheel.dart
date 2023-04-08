@@ -33,8 +33,7 @@ class _DayWheelState extends State<DayWheel> {
                 weekday,
                 style: const TextStyle(
                   color: Colors.black,
-                  fontWeight: FontWeight.bold,
-                  fontSize: 18,
+                  
                 ),
               ),
             ),

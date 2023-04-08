@@ -46,8 +46,7 @@ class _DayWheelPrefixState extends State<DayWheelPrefix> {
                 prefix,
                 style: const TextStyle(
                   color: Colors.black,
-                  fontWeight: FontWeight.bold,
-                  fontSize: 18,
+                  
                 ),
               ),
             ),
