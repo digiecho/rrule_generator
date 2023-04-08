@@ -11,29 +11,20 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+TODO: a bisc RRule generator widget that handles the creation of the RRULE.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+create RRule as string.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+TODO: create better instructions  
+import or fork the project.
 
 ## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
+see `/example` folder.
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+TODO: the plugin uses the Icalender RRule standard.
